@@ -98,11 +98,11 @@ namespace BinarySearchPractice
             else if (list[middle] < number) // If it doesn't match, find out if it's higher or lower,
             {
                 Console.WriteLine($"The number is greater than {list[middle]}."); // test
-                // if it's lower, then set the end to middle number.
+                // if it's lower, then set the start to middle number.
                 // this should be the default order for sort
                 start = middle;
                 return BinarySearch(list, number, start, end);// recursion
-            } else // otherwise the number must be greater than the middle value, so set it to the start value
+            } else // otherwise the number must be greater than the middle value, so set the end to the middle value
             {
                 Console.WriteLine($"The number is less than {list[middle]}."); // test
                 end = middle;
