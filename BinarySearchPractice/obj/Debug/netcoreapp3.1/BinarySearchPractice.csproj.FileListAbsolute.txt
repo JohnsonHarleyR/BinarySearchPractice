@@ -1,0 +1,13 @@
+C:\Users\Business\source\repos\BinarySearchPractice\BinarySearchPractice\obj\Debug\netcoreapp3.1\BinarySearchPractice.csprojAssemblyReference.cache
+C:\Users\Business\source\repos\BinarySearchPractice\BinarySearchPractice\obj\Debug\netcoreapp3.1\BinarySearchPractice.AssemblyInfoInputs.cache
+C:\Users\Business\source\repos\BinarySearchPractice\BinarySearchPractice\obj\Debug\netcoreapp3.1\BinarySearchPractice.AssemblyInfo.cs
+C:\Users\Business\source\repos\BinarySearchPractice\BinarySearchPractice\obj\Debug\netcoreapp3.1\BinarySearchPractice.csproj.CoreCompileInputs.cache
+C:\Users\Business\source\repos\BinarySearchPractice\BinarySearchPractice\bin\Debug\netcoreapp3.1\BinarySearchPractice.exe
+C:\Users\Business\source\repos\BinarySearchPractice\BinarySearchPractice\bin\Debug\netcoreapp3.1\BinarySearchPractice.deps.json
+C:\Users\Business\source\repos\BinarySearchPractice\BinarySearchPractice\bin\Debug\netcoreapp3.1\BinarySearchPractice.runtimeconfig.json
+C:\Users\Business\source\repos\BinarySearchPractice\BinarySearchPractice\bin\Debug\netcoreapp3.1\BinarySearchPractice.runtimeconfig.dev.json
+C:\Users\Business\source\repos\BinarySearchPractice\BinarySearchPractice\bin\Debug\netcoreapp3.1\BinarySearchPractice.dll
+C:\Users\Business\source\repos\BinarySearchPractice\BinarySearchPractice\bin\Debug\netcoreapp3.1\BinarySearchPractice.pdb
+C:\Users\Business\source\repos\BinarySearchPractice\BinarySearchPractice\obj\Debug\netcoreapp3.1\BinarySearchPractice.dll
+C:\Users\Business\source\repos\BinarySearchPractice\BinarySearchPractice\obj\Debug\netcoreapp3.1\BinarySearchPractice.pdb
+C:\Users\Business\source\repos\BinarySearchPractice\BinarySearchPractice\obj\Debug\netcoreapp3.1\BinarySearchPractice.genruntimeconfig.cache
