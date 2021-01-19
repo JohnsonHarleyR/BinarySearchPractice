@@ -7,8 +7,8 @@ namespace BinarySearchPractice
     {
         static void Main()
         {
-            // I realize there is a binary search method already or perhaps other ways to retrieve,
-            // perhaps another Collection type, but this is to practice setting up a binary search.
+            // I realize there is likely already a binary search method, or perhaps other ways to retrieve the
+            // number (maybe using another Collection type), but this is to practice setting up a binary search.
 
             // variables
             List<int> numbers = new List<int>() { 5, 26, 73, 23, 654, 231, 67, 43, 145, 346, 21, 1, 98,
