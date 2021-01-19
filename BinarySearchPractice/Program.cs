@@ -104,7 +104,7 @@ namespace BinarySearchPractice
                 return BinarySearch(list, number, start, end);// recursion
             } else // otherwise the number must be greater than the middle value, so set it to the start value
             {
-                Console.WriteLine($"The middle number is less than {list[middle]}."); // test
+                Console.WriteLine($"The number is less than {list[middle]}."); // test
                 end = middle;
                 return BinarySearch(list, number, start, end);// recursion
             }
